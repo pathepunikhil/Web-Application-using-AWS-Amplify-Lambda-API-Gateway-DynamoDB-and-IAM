@@ -33,7 +33,7 @@ Deploy the application by running the following command:
 perl
 
 amplify push
-Architecture
+Architecture 
 The web application is built using a serverless architecture. The application uses AWS Lambda for serverless compute, API Gateway for RESTful API endpoints, DynamoDB for serverless storage, and IAM for access control.
 
 The front-end of the application can be built using any web development framework, such as React, Angular, or Vue. The front-end communicates with the back-end using API Gateway.
